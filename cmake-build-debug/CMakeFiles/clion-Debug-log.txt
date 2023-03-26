@@ -1,0 +1,4 @@
+"D:\instalki\toolbox\aplikacje do programowania toolbox\apps\CLion\ch-0\223.8836.42\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=D:/instalki/toolbox/aplikacje do programowania toolbox/apps/CLion/ch-0/223.8836.42/bin/ninja/win/x64/ninja.exe" -G Ninja -S "C:\Users\msztu\Desktop\BACA\P2\2\projekt roboczy\projekt zagniezczony" -B "C:\Users\msztu\Desktop\BACA\P2\2\projekt roboczy\projekt zagniezczony\cmake-build-debug"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/msztu/Desktop/BACA/P2/2/projekt roboczy/projekt zagniezczony/cmake-build-debug

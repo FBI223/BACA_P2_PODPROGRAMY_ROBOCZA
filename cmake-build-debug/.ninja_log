@@ -1,0 +1,25 @@
+# ninja log v5
+4	582	7015302319553486	CMakeFiles/projekt_zagniezczony.dir/Sum.cpp.obj	1abd2e3d26a561df
+3	441	7015367318360271	CMakeFiles/projekt_zagniezczony.dir/Mult.cpp.obj	dca26afdeccc5b03
+11	388	7014564055704372	CMakeFiles/projekt_zagniezczony.dir/Operation.cpp.obj	529db43cf4d16bb1
+3	371	7015370405987618	CMakeFiles/projekt_zagniezczony.dir/main.cpp.obj	f154179d04aa8ecd
+371	890	7015370411116766	projekt_zagniezczony.exe	c79c79bc7f248203
+4	382	7015370562701409	CMakeFiles/projekt_zagniezczony.dir/main.cpp.obj	f154179d04aa8ecd
+382	901	7015370567834330	projekt_zagniezczony.exe	c79c79bc7f248203
+3	362	7015370712999894	CMakeFiles/projekt_zagniezczony.dir/main.cpp.obj	f154179d04aa8ecd
+370	873	7015370718054960	projekt_zagniezczony.exe	c79c79bc7f248203
+3	379	7015370822843915	CMakeFiles/projekt_zagniezczony.dir/main.cpp.obj	f154179d04aa8ecd
+380	898	7015370827950094	projekt_zagniezczony.exe	c79c79bc7f248203
+15	1433	7015385003336588	CMakeFiles/projekt_zagniezczony.dir/main.cpp.obj	f154179d04aa8ecd
+34	1479	7015385003776604	CMakeFiles/projekt_zagniezczony.dir/Mult.cpp.obj	dca26afdeccc5b03
+1480	2607	7015385014907101	projekt_zagniezczony.exe	c79c79bc7f248203
+5	739	7015385402780566	CMakeFiles/projekt_zagniezczony.dir/main.cpp.obj	f154179d04aa8ecd
+740	1901	7015385414381772	projekt_zagniezczony.exe	c79c79bc7f248203
+8	1012	7015387392081834	CMakeFiles/projekt_zagniezczony.dir/main.cpp.obj	f154179d04aa8ecd
+1012	2095	7015387402742942	projekt_zagniezczony.exe	c79c79bc7f248203
+12	1084	7015387830336836	CMakeFiles/projekt_zagniezczony.dir/Mult.cpp.obj	dca26afdeccc5b03
+1085	2330	7015387842686846	projekt_zagniezczony.exe	c79c79bc7f248203
+5	1040	7015388042094270	CMakeFiles/projekt_zagniezczony.dir/Mult.cpp.obj	dca26afdeccc5b03
+1041	2291	7015388054423732	projekt_zagniezczony.exe	c79c79bc7f248203
+5	1062	7015389511243153	CMakeFiles/projekt_zagniezczony.dir/Mult.cpp.obj	dca26afdeccc5b03
+1063	2417	7015389524653121	projekt_zagniezczony.exe	c79c79bc7f248203

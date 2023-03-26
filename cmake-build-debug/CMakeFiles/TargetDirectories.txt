@@ -1,0 +1,3 @@
+C:/Users/msztu/Desktop/BACA/P2/2/projekt roboczy/projekt zagniezczony/cmake-build-debug/CMakeFiles/projekt_zagniezczony.dir
+C:/Users/msztu/Desktop/BACA/P2/2/projekt roboczy/projekt zagniezczony/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/msztu/Desktop/BACA/P2/2/projekt roboczy/projekt zagniezczony/cmake-build-debug/CMakeFiles/rebuild_cache.dir
